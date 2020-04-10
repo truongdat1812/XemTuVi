@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Tử Vi</string>
+    <string name="action_settings">Settings</string>
+
+    // 12 con giap
+    <string name="tuoi_ty">Tuổi Tý</string>
+    <string name="tuoi_suu">Tuổi Sửu</string>
+    <string name="tuoi_dan">Tuổi Dần</string>
+    <string name="tuoi_mao">Tuổi Mão</string>
+    <string name="tuoi_thin">Tuổi Thìn</string>
+    <string name="tuoi_ran">Tuổi Tỵ</string>
+    <string name="tuoi_ngo">Tuổi Ngọ</string>
+    <string name="tuoi_mui">Tuổi Mùi</string>
+    <string name="tuoi_than">Tuổi Thân</string>
+    <string name="tuoi_dau">Tuổi Dậu</string>
+    <string name="tuoi_tuat">Tuổi Tuất</string>
+    <string name="tuoi_hoi">Tuổi Hợi</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="man">Nam Mạng</string>
+    <string name="woman">Nữ Mạng</string>
+    <string name="title_activity_detail_con_giap">DetailConGiapActivity</string>
+
+    // Home screen
+    <string name="tu_vi_tron_doi">Tử Vi Trọn Đời</string>
+    <string name="boi_phuong_dong">Bói Phương Đông</string>
+    <string name="boi_phuong_tay">Bói Phương Tây</string>
+    <string name="bang_cung_mang">Bảng Cung - Mạng</string>
+    <string name="danh_ngon">Danh Ngôn</string>
+    <string name="ngay_le">Ngày Nghỉ Lễ</string>
+    <string name="le_hoi_vn">Lễ Hội Việt Nam</string>
+
+    // cung mang
+    <string name="cung_mang">Bảng Cung Mạng</string>
+    <string name="namSinh">Năm</string>
+    <string name="amLich">Âm Lịch</string>
+    <string name="gioiTinh">Giới Tính</string>
+    <string name="mang">Mạng</string>
+    <string name="cung">Cung</string>
+    <string name="hanh">Hành</string>
+
+    // boi phuong tay
+    <string name="aries">Bạch Dương</string>
+    <string name="taurus">Kim Ngưu</string>
+    <string name="gemini">Song Tử</string>
+    <string name="cancer">Cự Giải</string>
+    <string name="leo">Sư Tử</string>
+    <string name="virgo">Xử Nữ </string>
+    <string name="libra">Thiên Bình</string>
+    <string name="scorpius">Hổ Cáp</string>
+    <string name="sagittarius">Nhân Mã</string>
+    <string name="capricorn">Ma Kết</string>
+    <string name="aquarius">Bảo Bình</string>
+    <string name="pisces">Song Ngư</string>
+    <string name="title_activity_ngay_le">NgayLeActivity</string>
+    <string name="title_activity_le_hoi">LeHoiActivity</string>
+    <string name="title_activity_le_hoi_detail">LeHoiDetailActivity</string>
+    <string name="title_activity_danh_ngon">DanhNgonActivity</string>
+
+</resources>
